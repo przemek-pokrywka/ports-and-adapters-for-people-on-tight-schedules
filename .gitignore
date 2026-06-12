@@ -1,2 +1,8 @@
 node_modules
 .devbox
+.DS_Store
+dist
+*.local
+.vite-inspect
+.remote-assets
+components.d.ts
