@@ -103,50 +103,50 @@
       }
     },
     "slidev-cli@latest": {
-      "last_modified": "2026-02-15T09:18:18Z",
-      "resolved": "github:NixOS/nixpkgs/e3cb16bccd9facebae3ba29c6a76a4cc1b73462a#slidev-cli",
+      "last_modified": "2026-06-06T12:12:42Z",
+      "resolved": "github:NixOS/nixpkgs/cbb5cf358f50aa6acc9efd6113b7bcfbc352cd73#slidev-cli",
       "source": "devbox-search",
-      "version": "52.12.0",
+      "version": "52.15.2",
       "systems": {
         "aarch64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/0372m0pbhbwjbdwwmq9nizsgpfh0abhh-slidev-cli-52.12.0",
+              "path": "/nix/store/wc5h6drdx87s4a1zssfwmc2fjm7bwi3q-slidev-cli-52.15.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/0372m0pbhbwjbdwwmq9nizsgpfh0abhh-slidev-cli-52.12.0"
+          "store_path": "/nix/store/wc5h6drdx87s4a1zssfwmc2fjm7bwi3q-slidev-cli-52.15.2"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/k04brm6sxrx5pnmxgqybbmvd3bjb6j0m-slidev-cli-52.12.0",
+              "path": "/nix/store/g93nk9w50kpfqi1ih5czi10c2bwj6hz4-slidev-cli-52.15.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/k04brm6sxrx5pnmxgqybbmvd3bjb6j0m-slidev-cli-52.12.0"
+          "store_path": "/nix/store/g93nk9w50kpfqi1ih5czi10c2bwj6hz4-slidev-cli-52.15.2"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/dm0nr9qqkn0bx2a3rpy0qsafnj075kbx-slidev-cli-52.12.0",
+              "path": "/nix/store/a9p75ypx5lfqxi53ivggq9wq1ivrkf00-slidev-cli-52.15.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/dm0nr9qqkn0bx2a3rpy0qsafnj075kbx-slidev-cli-52.12.0"
+          "store_path": "/nix/store/a9p75ypx5lfqxi53ivggq9wq1ivrkf00-slidev-cli-52.15.2"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/s0c27c2jg10360d56vi9zggh3r815zar-slidev-cli-52.12.0",
+              "path": "/nix/store/sain38smv588h469x8m7y2lr3z9wkaxs-slidev-cli-52.15.2",
               "default": true
             }
           ],
-          "store_path": "/nix/store/s0c27c2jg10360d56vi9zggh3r815zar-slidev-cli-52.12.0"
+          "store_path": "/nix/store/sain38smv588h469x8m7y2lr3z9wkaxs-slidev-cli-52.15.2"
         }
       }
     }

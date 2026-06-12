@@ -314,7 +314,9 @@ The serverless processes like to log
 - you want to process it
 - whoopsie! `jq: parse error: Expected string key before ':' at line 1, column 3`
 </v-clicks>
+
 <v-clicks depth="1">
+
 ```scala
 import cats.effect.IO
 
@@ -330,6 +332,7 @@ object StandardOut {
 
 }
 ```
+
 </v-clicks>
 
 <!--
