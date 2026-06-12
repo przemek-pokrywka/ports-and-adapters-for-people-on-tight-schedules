@@ -6,14 +6,8 @@ theme: seriph
 background: /architectures.png
 # apply any unocss classes to the current slide
 class: 'text-center'
-# some information about the slides, markdown enabled
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 transition: slide-left
-title: Welcome to Slidev
+title: Ports and Adapters for People on Tight Schedules
 mdc: true
 ---
 
