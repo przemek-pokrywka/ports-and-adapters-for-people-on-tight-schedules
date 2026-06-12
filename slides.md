@@ -302,6 +302,7 @@ when necessary.
 -->
 
 ---
+transition: fade-out
 ---
 
 # The logging gotcha
