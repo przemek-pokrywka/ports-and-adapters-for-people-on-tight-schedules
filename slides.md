@@ -83,7 +83,7 @@ Finally, I'll show you some gotchas I had along the way.
 ---
 transition: fade-out
 layout: image
-image: architectures.png
+image: /architectures.png
 backgroundSize: contain
 ---
 # P&A
@@ -103,7 +103,7 @@ can be swapped for their alternatives, as long as the component interface matche
 ---
 transition: fade-out
 layout: image
-image: layers-vs-not.png
+image: /layers-vs-not.png
 backgroundSize: contain
 ---
 # P&A
@@ -124,7 +124,7 @@ We'll see this in detail on the following slide.
 ---
 transition: fade-out
 layout: image
-image: p-a-a-zoom-in.png
+image: /p-a-a-zoom-in.png
 backgroundSize: contain
 ---
 # Ports and Adapters in a Small app: zoom in
@@ -161,7 +161,7 @@ and provide configuration for algorithms.
 ---
 transition: fade-out
 layout: image
-image: high-level.png
+image: /high-level.png
 backgroundSize: contain
 ---
 # High
@@ -177,7 +177,7 @@ required to produce the events, then to produce the domain events.
 ---
 transition: fade-out
 layout: image
-image: serverless-arch.png
+image: /serverless-arch.png
 backgroundSize: 70% 70%
 ---
 # Our serverless vision
@@ -194,7 +194,7 @@ development env:
 -->
 ---
 layout: image-right
-image: pablo.png
+image: /pablo.png
 backgroundSize: contain
 ---
 # The tight schedules challenge
@@ -267,7 +267,7 @@ timing out. We were able to easily run the async profiler to quickly spot the pr
 
 ---
 layout: image-right
-image: ensure-is-up-to-date.png
+image: /ensure-is-up-to-date.png
 ---
 
 # The SBT gotcha
