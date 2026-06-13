@@ -30,14 +30,14 @@ jobs:
         run: nci
 
       - name: Build
-        run: nr build --base /ports-and-adapters-for-people-on-tight-schedules/
+        run: nr build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: dist
 
   deploy:
     permissions:
