@@ -3,6 +3,7 @@
   "packages": [
     "slidev-cli@latest",
     "bun@latest",
-    "nodejs@latest"
+    "nodejs@latest",
+    "python3@latest"
   ]
 }
